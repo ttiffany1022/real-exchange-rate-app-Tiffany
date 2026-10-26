@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33973838/README.md)
 # Real Exchange Rate Explorer
 
 A Streamlit app that downloads monthly CPI and exchange-rate data from the IMF and plots the bilateral real exchange rate between any two IMF countries (or the Euro area).
